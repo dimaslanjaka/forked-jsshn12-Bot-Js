@@ -111,6 +111,8 @@ const start = async (client = new Client()) => {
         await uncache(require.resolve(module))
         cb(module)
     })
+
+    return client;
 }
 
 /**
