@@ -128,6 +128,7 @@ function uncache(module = '.') {
     })
 }
 
-create(options(true, start))
+const run = () => create(options(true, start))
     .then(client => start(client))
     .catch((error) => console.log(error))
+module.exports = { run }
