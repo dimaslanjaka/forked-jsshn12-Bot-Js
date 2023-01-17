@@ -24,6 +24,7 @@ jobs:
     - run: npm install
     - run: npm test
     - run: npx prettier -w index.js
+    - run: npx prettier -w test/**/*.js
     - run: git config --global user.name "dimaslanjaka"
     - run: git config --global user.mail "dimaslanjaka@gmail.com"
     - run: git add .
