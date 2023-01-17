@@ -20,7 +20,13 @@ jobs:
       with:
         node-version: 18.x
 
-    - name: Test
-      run: |
-        npm install
-        npm test
+    - run: npm i -D prettier
+    - run: npm install
+    - run: npm test
+    - run: npx prettier -w index.js
+    - run: git config --global user.name "dimaslanjaka"
+    - run: git config --global user.mail "dimaslanjaka@gmail.com"
+    - run: git add .
+    - run: git commit -m "refactor: prettier fix"
+    - run: git push
+      continue-on-error: true
