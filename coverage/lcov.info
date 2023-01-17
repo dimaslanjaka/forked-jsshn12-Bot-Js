@@ -1,5 +1,5 @@
 TN:
-SF:lib\ban.js
+SF:lib/ban.js
 FN:3,(anonymous_0)
 FN:9,(anonymous_1)
 FN:11,(anonymous_2)
@@ -42,7 +42,7 @@ BRF:6
 BRH:0
 end_of_record
 TN:
-SF:lib\brainly.js
+SF:lib/brainly.js
 FN:3,(anonymous_0)
 FN:4,(anonymous_1)
 FN:6,(anonymous_2)
@@ -75,7 +75,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:lib\color.js
+SF:lib/color.js
 FN:3,(anonymous_0)
 FNF:1
 FNH:0
@@ -91,7 +91,7 @@ BRF:2
 BRH:0
 end_of_record
 TN:
-SF:lib\fetcher.js
+SF:lib/fetcher.js
 FN:7,(anonymous_0)
 FN:16,(anonymous_1)
 FN:18,(anonymous_2)
@@ -195,7 +195,7 @@ BRF:13
 BRH:0
 end_of_record
 TN:
-SF:lib\functions.js
+SF:lib/functions.js
 FN:11,(anonymous_0)
 FN:19,(anonymous_1)
 FN:28,(anonymous_2)
@@ -431,7 +431,7 @@ BRF:53
 BRH:0
 end_of_record
 TN:
-SF:lib\giphy.js
+SF:lib/giphy.js
 FN:3,(anonymous_0)
 FN:19,(anonymous_1)
 FN:20,(anonymous_2)
@@ -466,7 +466,7 @@ BRF:4
 BRH:0
 end_of_record
 TN:
-SF:lib\help.js
+SF:lib/help.js
 FN:4,help
 FN:55,iklan
 FN:71,cmd
@@ -537,7 +537,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:lib\imageProcessing.js
+SF:lib/imageProcessing.js
 FN:11,(anonymous_0)
 FN:11,(anonymous_1)
 FN:17,(anonymous_2)
@@ -568,7 +568,7 @@ BRF:2
 BRH:0
 end_of_record
 TN:
-SF:lib\images.js
+SF:lib/images.js
 FN:10,(anonymous_0)
 FN:10,(anonymous_1)
 FN:12,(anonymous_2)
@@ -618,7 +618,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:lib\intro.js
+SF:lib/intro.js
 FN:3,(anonymous_0)
 FNF:1
 FNH:0
@@ -649,7 +649,7 @@ BRF:4
 BRH:0
 end_of_record
 TN:
-SF:lib\left.js
+SF:lib/left.js
 FN:3,(anonymous_0)
 FNF:1
 FNH:0
@@ -684,7 +684,7 @@ BRF:8
 BRH:0
 end_of_record
 TN:
-SF:lib\msgFilter.js
+SF:lib/msgFilter.js
 FN:7,(anonymous_0)
 FN:13,(anonymous_1)
 FN:15,(anonymous_2)
@@ -705,7 +705,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:lib\nekopoi.js
+SF:lib/nekopoi.js
 FN:10,getLatest
 FN:11,(anonymous_1)
 FN:14,(anonymous_2)
@@ -772,7 +772,7 @@ BRF:2
 BRH:0
 end_of_record
 TN:
-SF:lib\quote.js
+SF:lib/quote.js
 FN:3,(anonymous_0)
 FNF:1
 FNH:0
@@ -790,7 +790,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:lib\resep.js
+SF:lib/resep.js
 FN:4,(anonymous_0)
 FN:4,(anonymous_1)
 FN:6,(anonymous_2)
@@ -827,7 +827,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:lib\rugaapi.js
+SF:lib/rugaapi.js
 FN:6,(anonymous_0)
 FN:6,(anonymous_1)
 FN:8,(anonymous_2)
@@ -1203,7 +1203,7 @@ BRF:16
 BRH:0
 end_of_record
 TN:
-SF:lib\shortener.js
+SF:lib/shortener.js
 FN:3,(anonymous_0)
 FN:4,(anonymous_1)
 FN:7,(anonymous_2)
@@ -1229,7 +1229,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:lib\tikel_makel.js
+SF:lib/tikel_makel.js
 FN:3,(anonymous_0)
 FN:3,(anonymous_1)
 FN:7,(anonymous_2)
@@ -1253,7 +1253,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:lib\tools.js
+SF:lib/tools.js
 FN:9,(anonymous_0)
 FN:9,(anonymous_1)
 FN:15,(anonymous_2)
@@ -1549,7 +1549,7 @@ BRF:8
 BRH:0
 end_of_record
 TN:
-SF:lib\ttp.js
+SF:lib/ttp.js
 FN:3,(anonymous_0)
 FN:3,(anonymous_1)
 FN:7,(anonymous_2)
@@ -1573,7 +1573,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:lib\welcome.js
+SF:lib/welcome.js
 FN:3,(anonymous_0)
 FNF:1
 FNH:0
@@ -1608,7 +1608,7 @@ BRF:8
 BRH:0
 end_of_record
 TN:
-SF:lib\ytmp4.js
+SF:lib/ytmp4.js
 FN:7,(anonymous_0)
 FN:16,(anonymous_1)
 FN:20,(anonymous_2)
@@ -1645,7 +1645,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:utils\fetcher.js
+SF:utils/fetcher.js
 FN:14,(anonymous_0)
 FN:15,(anonymous_1)
 FN:17,(anonymous_2)
@@ -1752,7 +1752,7 @@ BRF:8
 BRH:0
 end_of_record
 TN:
-SF:utils\imageProcessing.js
+SF:utils/imageProcessing.js
 FN:11,(anonymous_0)
 FN:11,(anonymous_1)
 FN:17,(anonymous_2)
@@ -1783,7 +1783,7 @@ BRF:2
 BRH:0
 end_of_record
 TN:
-SF:utils\index.js
+SF:utils/index.js
 FN:13,(anonymous_0)
 FN:18,(anonymous_1)
 FN:18,(anonymous_2)
