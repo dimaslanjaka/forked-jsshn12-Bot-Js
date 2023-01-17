@@ -25,9 +25,10 @@ jobs:
     - run: npm test
     - run: npx prettier -w index.js
     - run: npx prettier -w test/**/*.js
-    - run: git config --global user.name "dimaslanjaka"
-    - run: git config --global user.mail "dimaslanjaka@gmail.com"
-    - run: git add .
-    - run: git commit -m "refactor: prettier fix"
+    - run: |
+        git config --global user.name "dimaslanjaka"
+        git config --global user.mail "dimaslanjaka@gmail.com"
+        git add .
+        git commit -m "refactor: prettier fix"
     - run: git push
       continue-on-error: true
